@@ -38,7 +38,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: -moz-radial-gradient(center, circle cover, rgba(255,255,255,0.1) 20%, rgba(0,0,0, 0.4) 100%),
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 20%, rgba(0,0,0, 0.4) 100%),
               url(./imgs/grain.png) #2177a5;
   background: -webkit-radial-gradient(center, circle cover, rgba(255,255,255,0.1) 20%, rgba(0,0,0, 0.4) 100%),
               url(./imgs/grain.png) #2177a5;
